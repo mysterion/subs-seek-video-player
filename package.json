@@ -1,7 +1,7 @@
 {
   "name": "video-player",
   "version": "1.0.0",
-  "description": "",
+  "description": "A gimmicky video player that skips to parts of the video, when people speak",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -9,7 +9,7 @@
     "package": "electron-forge package",
     "make": "electron-forge make"
   },
-  "author": "",
+  "author": "github.com/mysterion",
   "license": "ISC",
   "devDependencies": {
     "@electron-forge/cli": "^7.3.1",
